@@ -18,3 +18,4 @@ Use the script `npm run test` to check your current score.
 Use the script `npm run jest ./tests/a.test.js` to run the single test for question a
 
 Start with question `a.js`
+# wadd-s2-quiz-1
