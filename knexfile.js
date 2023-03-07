@@ -5,7 +5,7 @@ module.exports = {
   development: {
     client: 'pg',
     connection: {
-      database: 'test'
+      database: 'exam_1'
     }
   },
 
