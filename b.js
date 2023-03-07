@@ -37,10 +37,10 @@ function count() {
             if (fileCounter + dirCounter == files.length) {
               resolve({files: fileCounter, directories: dirCounter}); 
             }
-        })
-      })
-    })
-  })
+        });
+      });
+    });
+  });
 };
 
 module.exports = count;
