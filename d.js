@@ -10,7 +10,9 @@
 const knex = require('./db/client'); // you will need to create this file
 
 function d() {
-  // your knex query here
+  return knex('students')
+  .where('id', 0)
+  .toString();
 }
 
 d()

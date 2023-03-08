@@ -15,7 +15,8 @@
   },
   "dependencies": {
     "cheerio": "^1.0.0-rc.5",
-    "knex": "^0.21.17",
+    "fetch": "^1.1.0",
+    "knex": "^0.21.21",
     "node-fetch": "^2.6.1",
     "pg": "^8.5.1"
   }
